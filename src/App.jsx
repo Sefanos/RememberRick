@@ -28,7 +28,7 @@ function App() {
 
     if (!clickedCharacter.clicked) {
       setScore((previousScore) => previousScore + 1);
-      // randomize();
+      randomize();
     } else {
       if (score > bestScore) {
         // Update the best score if the current score is higher

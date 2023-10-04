@@ -5,7 +5,7 @@ const Modal = ({ onClose, message, bestScore }) => {
     <div className="fixed inset-0 flex items-center justify-center z-50">
       <div className="modal-overlay fixed inset-0 bg-black opacity-75"></div>
       <div className="modal-container bg-white w-96 p-6 rounded-lg z-50 shadow-lg">
-  <img src="src/assets/YouLost.png" alt="You Lost" className="mx-auto mb-4" />
+  <img src="/images/YouLost.png" alt="You Lost" className="mx-auto mb-4" />
 
 
   <div className="text-center text-lg font-bold mb-4">{message}</div>

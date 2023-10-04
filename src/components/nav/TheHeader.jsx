@@ -9,7 +9,7 @@ export default function TheHeader(
 ) {
   return (
 <div className="flex items-center justify-between bg-blue-500 p-4">
-  <img src='src/assets/pngwing.com.png' alt='' className="w-12 h-12" />
+  <img src="/images/pngwing.com.png" alt='' className="w-12 h-12" />
 
   <div className="text-white text-lg">
     {gameStarted && (<h2>Current Score: {score}</h2>)}
