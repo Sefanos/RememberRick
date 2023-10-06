@@ -17,7 +17,7 @@ Currently, two official plugins are available:
 # RememberRick
 ## Demo
 
-Check out the demo of this template at [remember-rick.vercel.app](https://remember-rick.vercel.app).
+Check out the demo of this at [remember-rick.vercel.app](https://remember-rick.vercel.app).
 
 ## What I Learned in This Project
 
@@ -31,7 +31,7 @@ I have learned how to integrate external APIs into my React application. This in
 
 ### Component Mounts
 
-Understanding the component lifecycle in React is crucial. I have gained knowledge about component mounts, which includes actions that happen when a component is rendered for the first time. This knowledge has allowed me to perform necessary setup operations during component initialization.
+Understanding the component lifecycle in React is crucial. I have gained knowledge about component mounts, which include actions that happen when a component is rendered for the first time. This knowledge has allowed me to perform necessary setup operations during component initialization.
 
 ### Fetching Data with React
 
@@ -39,6 +39,6 @@ I have explored different techniques for fetching data in React applications. Th
 
 ### Deployment
 
-I have learned how to deploy the React application to a hosting service, making it accessible to users worldwide. This involves configuring the build process, optimizing assets, and ensuring a smooth deployment workflow.
+I have learned how to deploy the React application to a hosting service, making it accessible to users worldwide. This involves configuring the build process.
 
 
